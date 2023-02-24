@@ -1,1 +1,7 @@
 Now this repo is in remote
+
+git add .
+git commit -m"This is a commit"
+git push
+
+ACP
